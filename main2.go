@@ -2,4 +2,6 @@ package main
 
 import "fmt"
 
-function main()
+function main() {
+	fmt.Println("Hello, World!")
+}
